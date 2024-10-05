@@ -1,7 +1,9 @@
 # Test site
 
-This is a test site. Mark Down is a great guy, I like him almost as much as JSON.
+This is a test site. Mark Down is a great guy; I like him almost as much as JSON.
 
-### What is a Teams app and why would you want one?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fRgXTE3YjsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For now this is just a place for posting individual items like recipes and images that need static hosting. Maybe I'll move my blog here someday ...
 
+## Recipes
+
+* [Bob's New England Style Granola](./recipes/granola.md)
