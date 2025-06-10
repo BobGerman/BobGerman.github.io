@@ -5,3 +5,4 @@ For now this is just a place for posting individual items like recipes and image
 ## Recipes
 
 * [Bob's New England Style Granola](./recipes/granola.md)
+* [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
