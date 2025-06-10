@@ -27,7 +27,7 @@ Kate found this recipe and adapted it quite a bit so here is the update. I love 
 
 1. Clean and slice the mushrooms about 1/8" 
 2. Add oil and butter to a large skillet and melt over medium-high heat
-3. Add mushrooms and cook covered until done through, stirring occasionally. About half way thru stir in the salt; encourage the mushrooms to juice out.
+3. Add mushrooms and cook covered until done through, stirring occasionally. About half way thru stir in the garlic and salt; encourage the mushrooms to juice out
 4. Remove from heat and set side
 
 ### Gravy:
