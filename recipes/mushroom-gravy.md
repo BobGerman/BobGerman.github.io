@@ -18,6 +18,7 @@ Kate found this recipe and adapted it quite a bit so here is the update. I love 
  - 2 cups homemade chicken stock
  - 3 Tbsp white wine (Pinot Grigio preferred)
  - 1/4 tsp black pepper
+ - 1-2 tsp powdered sage
  - Dash of gravy master (optional)
 
 ## Instructions
@@ -34,7 +35,7 @@ Kate found this recipe and adapted it quite a bit so here is the update. I love 
 1. In a small sauce pan, melt butter, then add the flour and stir constantly for 1 1/2 min to make a roux
 2. Slowly whisk in the chicken stock, whisking constantly to avoid lumps.
 3. Add the wine and pour off the liquid from the mushrooms; continue to whisk until it thickens uniformly
-4. Add the mushroom mixture and cook for 3-5 min over medium-low heat
+4. Add the pepper, sage, and mushroom mixture and cook for 3-5 min over medium-low heat
 5. To get a darker color, stir in a small amount of gravy master
 
 
