@@ -1,7 +1,8 @@
 # (Almost) Margit's Cucumber Salad
 
+
 This is inspired by Kate's mom, who always made amazing cucumber saled
-for holiday events. It's just a tiny bit less sweet.
+for holiday events.
 
 ## Equipment
 
@@ -13,8 +14,8 @@ for holiday events. It's just a tiny bit less sweet.
  - 1 lb seedless ("English") cucumbers (~1 English cucumber)
  - 2 Tbsp sugar
  - 1 tsp kosher salt
- - 2 1/2 Tbsp red wine vinegar
- - 1/2 small onion
+ - 2 1/2 Tbsp red wine vineg
+ 
 ## Instructions
 
 1. Slice the cucumber thin into the bowl using a mandolin.
