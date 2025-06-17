@@ -6,3 +6,7 @@ For now this is just a place for posting individual items like recipes and image
 * [Bob's New England Style Granola](./recipes/granola.md)
 * [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
 * [Turkey Meatballs](./recipes/turkey-meatballs.md)
+
+## Experimental
+
+* [Rice in Ohsawa Pot](./recipes/rice-in-ohaawa-pot.md)
