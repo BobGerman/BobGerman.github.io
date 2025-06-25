@@ -14,11 +14,12 @@ This is a blend of several recipes I found online, plus I made several batches t
 Select 4-6 of the following "fun" ingredients, 1/4 cup each:
 
   - raw pepitas (often called pumpkin seeds but they're actually from squash) or sunflower seeds
-  - chopped raw walnuts, pecans, almonds, or hazel nuts
+  - chopped raw walnuts, cashews, pecans, almonds, or hazel nuts
   - slivered almonds `*`
-  - raisins, craisins, dried blueberries`*` and/or cherries
+  - raisins, craisins, dried blueberries`**` and/or cherries
 
 `*` these tend to overcook so set them aside and add them only for the last 15 min of baking
+`**` these are best added at the end without any baking time
 
 ## Wet ingredients
 
@@ -28,7 +29,7 @@ Select 4-6 of the following "fun" ingredients, 1/4 cup each:
 
 ## Instructions
 
-1. Pre-heat oven to 320 degrees.
+1. Pre-heat oven to 325 degrees.
 
 2. Mix the dry ingredients in a large bowl except for any that might overcook such as slivered almonds and dried blueberries.
 
@@ -48,3 +49,5 @@ Did you know that in 2018 the [Environmental Working Group (EWG) detected signif
 EWG says this is a cause for concern, but the food manufacturers in question claim it's no problem. They wouldn't lie about that kind of thing, right?
 
 You decide for yourself, but we have only organic oats in our kitchen! [Bob's Red Mill Organic Old Fashioned Oats](https://www.bobsredmill.com/organic-regular-rolled-oats.html) are my current favorite.
+
+(v1.1, 24-June-2025)

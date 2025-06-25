@@ -38,4 +38,6 @@ Kate found this recipe and adapted it quite a bit so here is the update. I love 
 4. Add the pepper, sage, and mushroom mixture and cook for 3-5 min over medium-low heat
 5. To get a darker color, stir in a small amount of gravy master
 
+(v1.0, 16-June-2025)
+
 

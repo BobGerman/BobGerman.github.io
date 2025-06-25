@@ -26,3 +26,7 @@ Cook by pressure cooker which is for all season
 *You may place the chopstick under the Ohsawa pot for noise.
 
 from https://macrobiotickitchen.blogspot.com/2010/11/how-to-cook-brown-rice-by-ohsawa-pot.html - may skip soaking step?
+
+https://what-about-ohsawa-pots.blogspot.com/2022/
+
+(v1.0, 17-June-2025)

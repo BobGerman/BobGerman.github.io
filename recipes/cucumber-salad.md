@@ -23,3 +23,5 @@ for holiday events.
 3. Slice the onion thin wih the mandolin.
 4. Add the sliced onion and vinegar and stir thorougly
 5. Refrigerate for 10 minutes or several hours before serving
+
+(v1.0, 16-June-2025)

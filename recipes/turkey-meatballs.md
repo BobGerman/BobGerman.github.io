@@ -23,3 +23,5 @@
 
 They freeze well on a cookie sheet to keep them separated.
 
+(v1.0, 16-June-2025)
+
