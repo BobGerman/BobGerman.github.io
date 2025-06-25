@@ -6,6 +6,7 @@ This is my free Github Pages web site; for now it's just a place for posting rec
 * [Baked Cod with Bread Crumbs](./recipes/baked-cod-w-bread-crumbs.md)
 * [Bob's New England Style Granola](./recipes/granola.md)
 * [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
+* [Miso-glazed Eggplant](./recipes/miso-glazed-eggplant.md)
 * [Turkey Meatballs](./recipes/turkey-meatballs.md)
 
 ## Experimental
