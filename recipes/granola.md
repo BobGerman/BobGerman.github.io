@@ -37,11 +37,11 @@ Select 4-6 of the following "fun" ingredients, 1/4 cup each:
 
 4. Pour the wet ingredients into the dry and stir with a large spoon until everything is uniformly moist.
 
-5. Spread the mixture in a cookie sheet and bake for 15 minutes at 320 degrees. (For easy cleanup, line the cookie sheet with aluminum foil.)
+5. Spread the mixture in a cookie sheet and bake for 15 minutes at 325 degrees. (For easy cleanup, line the cookie sheet with aluminum foil.)
 
-6. Remove cookie sheet and add any remaining ingredients. With a spoon or spatula, turn over all the granola, breaking up any oversized chunks, and return to the oven for an additional 15 minutes.
+6. Remove cookie sheet and add any ingredients such as slivered almonds that are prone to overcooking. With a spoon or spatula, turn over all the granola, breaking up any oversized chunks, and return to the oven for an additional 15 minutes.
 
-7. Remove from oven transfer granola to a bowl to cool. Package in an air-tight container.
+7. Remove from oven transfer granola to a bowl to cool. Stir in any noncooked ingredients such as dried blueberries. Package in an air-tight container.
 
 ## Why organic?
 
@@ -50,4 +50,4 @@ EWG says this is a cause for concern, but the food manufacturers in question cla
 
 You decide for yourself, but we have only organic oats in our kitchen! [Bob's Red Mill Organic Old Fashioned Oats](https://www.bobsredmill.com/organic-regular-rolled-oats.html) are my current favorite.
 
-(v1.1, 24-June-2025)
+(v1.2, 16-July-2025)

@@ -12,6 +12,7 @@ for holiday events.
 ## Ingredients
 
  - 1 lb seedless ("English") cucumbers (~1 English cucumber)
+ - 1 small onion, peeled
  - 2 Tbsp sugar
  - 1 tsp kosher salt
  - 2 1/2 Tbsp red wine vineg
@@ -24,4 +25,4 @@ for holiday events.
 4. Add the sliced onion and vinegar and stir thorougly
 5. Refrigerate for 10 minutes or several hours before serving
 
-(v1.0, 16-June-2025)
+(v1.1, 16-July-2025)
