@@ -1,18 +1,16 @@
 ---8<--- "heading.md"
 
-<div class="sidebar">
-  <h2>Side bar</h2>
-  This is a side bar
-</div>
+This is my free Github Pages web site; for now it's just a place for posting recipes and images that need static hosting. Maybe I'll move my blog here someday.
 
-<h1 class="headingWithSubtitle">Bob's web site</h1>
+## Recipes
 
-<div class="subtitle">Recipes and more</div>
+* [(Almost) Margit's Cucumber Salad](./recipes/cucumber-salad.md)
+* [Baked Cod with Bread Crumbs](./recipes/baked-cod-w-bread-crumbs.md)
+* [Bob's New England Style Granola](./recipes/granola.md)
+* [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
+* [Miso-glazed Eggplant](./recipes/miso-glazed-eggplant.md)
+* [Turkey Meatballs](./recipes/turkey-meatballs.md)
 
-Welcome to my site! I am just dropping some stuff here, such as my [recipes](./recipes/baked-cod-w-bread-crumbs.md).
+## Experimental
 
-!!! info "Note"
-    This is a note
-
-Will it work?
-
+* [Rice in Ohsawa Pot](./recipes/rice-in-ohaawa-pot.md)
