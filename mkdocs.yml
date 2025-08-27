@@ -20,7 +20,7 @@ theme:
   name: 'material'
   palette: 
     scheme: 'slate'
-    primary: 'teal'
+    primary: 'amber'
     accent: 'black'
 #  logo: 'assets/microsoftteams_appcamp-webheader3.png'
   icon:
