@@ -19,8 +19,8 @@ nav:
 theme:
   name: 'material'
   palette: 
-    scheme: 'slate'
-    primary: 'amber'
+#    scheme: 'slate'
+#    primary: 'amber'
     accent: 'black'
 #  logo: 'assets/microsoftteams_appcamp-webheader3.png'
   icon:
