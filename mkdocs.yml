@@ -19,9 +19,7 @@ nav:
 theme:
   name: 'material'
   palette: 
-#    scheme: 'slate'
-#    primary: 'amber'
-    accent: 'black'
+  accent: 'black'
 #  logo: 'assets/microsoftteams_appcamp-webheader3.png'
   icon:
     repo: fontawesome/brands/github
@@ -36,7 +34,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - attr_list
-extra_css:
-- /site/assets/style.css
 
 
