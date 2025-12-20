@@ -10,7 +10,6 @@ This is my free Github Pages web site; for now it's just a place for posting rec
 * [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
 * [Miso-glazed Eggplant](./recipes/miso-glazed-eggplant.md)
 * [Turkey Meatballs](./recipes/turkey-meatballs.md)
-* [Rice in Ohsawa Pot (Experimental!)](./recipes/rice-in-ohaawa-pot.md)
 
 ## DnD - Guild of the Golden Dragon
 

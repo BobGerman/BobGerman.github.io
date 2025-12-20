@@ -2,6 +2,11 @@
 
 ## Ingredients
 
+|  | 1 | 2 | 3 | 
+|--|--|--|--|
+| Ground turkey, 93% lean | 1 lb | 2 lb | 3 lb |
+
+
  - 2 pounds ground turkey, 93% lean, dark meat preferred
  - 1 cup bread crumbs
  - 2/3 cup onion, finely minced
@@ -10,6 +15,7 @@
  - 2 tsp Worcestershire sauce
  - 1/2 tsp dried sage
  - 1/2 tsp dried marjoram
+ - 2 Tbsp olive oil
  - freshly ground black pepper
  - 1/4 cup oil for frying
 
