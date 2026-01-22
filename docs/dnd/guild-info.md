@@ -12,9 +12,9 @@ The campaign is an anthology of one-shot to 2 or 3-shot adventures. This allows 
 
 ## Links
 
-   * [Campaign on DnD Beyond](https://www.dndbeyond.com/campaigns/6783428)
-   * [Game time map](https://www.dndbeyond.com/games/6783428)
-   * [Discord server](https://discord.com/channels/1386443022396293244/1386443025286430843)
+   * [Campaign on DnD Beyond](https://www.dndbeyond.com/campaigns/6783428){target=_blank}
+   * [Game time map](https://www.dndbeyond.com/games/6783428){target=_blank}
+   * [Discord server](https://discord.com/channels/1386443022396293244/1386443025286430843){target=_blank}
 
 ## Important NPCs
 
