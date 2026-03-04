@@ -3,18 +3,18 @@
 adapted from https://cookingwithmammac.com/baked-cod-with-bread-crumbs/
 (half recipe)
 
-1 lb cod (or similar fish) fillets
+- 1 lb cod (or similar fish) fillets
 
-1/2 cup bread crumbs
-1/2 cup grated cheese
-1 1/2 Tbsp white wine
-1/2 Tbsp olive oil
-1/2 Tbsp fresh chopped parsley
-1/2 tsp garlic powder
-1/4 tsp paprika
+- 1/2 cup bread crumbs
+- 1/2 cup grated cheese
+- 1 1/2 Tbsp white wine
+- 1/2 Tbsp olive oil
+- 1/2 Tbsp fresh chopped parsley
+- 1/2 tsp garlic powder
+- 1/4 tsp paprika
 
-1/2 Tbsp fresh lemon juice
-1 1/2 Tbsp butter (I prefer unsalted)
+- 1/2 Tbsp fresh lemon juice
+- 1 1/2 Tbsp butter (I prefer unsalted)
 
 1. Preheat oven to 400; line a baking sheet w/foil and grease w/cooking oil
 
