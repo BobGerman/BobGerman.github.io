@@ -10,6 +10,7 @@ This is my free Github Pages web site; for now it's just a place for posting rec
 * [Chili](./recipes/chili.md)
 * [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
 * [Miso-glazed Eggplant](./recipes/miso-glazed-eggplant.md)
+* [Pan fried Salmon Filet](./recipes/pan-fried-salmon.md)
 * [Roasted Cauliflower](./recipes/roasted-cauliflower.md)
 * [Smoked Trout Spread](./recipes/smoked-trout-spread.md)
 * [Turkey Meatballs](./recipes/turkey-meatballs.md)

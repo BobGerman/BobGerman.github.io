@@ -1,6 +1,6 @@
 # Oven Roasted Cauliflower
 
-Summary
+Tasty cauliflower crispy on the outside, soft on the inside
 
 ## Equipment
 
@@ -24,6 +24,6 @@ Summary
 2. Melt the butter and add the remaining ingredients; stir thouroughly
 3. Pour mixture over cauliflower and stir until evenly coated
 4. Spread the cauliflower on a baking sheet
-5. Bake at 350 F for 40 minutes, stirring once or twice during cooking
+5. Bake at 350°F for 40 minutes, stirring once or twice during cooking
 
 (v0.9, 22-March-2026)
