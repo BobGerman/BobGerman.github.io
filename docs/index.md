@@ -15,10 +15,6 @@ This is my free Github Pages web site; for now it's just a place for posting rec
 * [Roasted Cauliflower](./recipes/roasted-cauliflower.md)
 * [Smoked Trout Spread](./recipes/smoked-trout-spread.md)
 * [Turkey Meatballs](./recipes/turkey-meatballs.md)
-## Recipes to try
-
- * [Thyme Glaze for Salmon](./test-recipes/thyme-glaze-for-salmon.md)
-
 
 
 ## DnD Campaigns
