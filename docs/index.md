@@ -11,6 +11,7 @@ This is my free Github Pages web site; for now it's just a place for posting rec
 * [Kate's Mushroom Gravy](./recipes/mushroom-gravy.md)
 * [Miso-glazed Eggplant](./recipes/miso-glazed-eggplant.md)
 * [Pan fried Salmon Filet](./recipes/pan-fried-salmon.md)
+* [Pesto](./recipes/pesto.md)
 * [Pork Tenderloin with Spiced Bourbon Sauce](./recipes/pork-tenderloin-spiced-bourbon-sauce.md)
 * [Roasted Cauliflower](./recipes/roasted-cauliflower.md)
 * [Smoked Trout Spread](./recipes/smoked-trout-spread.md)
