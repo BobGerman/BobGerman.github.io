@@ -14,6 +14,7 @@ This is my free Github Pages web site; for now it's just a place for posting rec
 * [Pesto](./recipes/pesto.md)
 * [Pork Tenderloin with Spiced Bourbon Sauce](./recipes/pork-tenderloin-spiced-bourbon-sauce.md)
 * [Roasted Cauliflower](./recipes/roasted-cauliflower.md)
+* [Shrimp Salad](./recipes/shrimp-salad.md)
 * [Smoked Trout Spread](./recipes/smoked-trout-spread.md)
 * [Turkey Meatballs](./recipes/turkey-meatballs.md)
 
